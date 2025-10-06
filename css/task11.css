@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: crimson;
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.aGy6b1MLLO-XxaCRuOpmkwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 40px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+button{
+    font-size: 20px;
+    padding: 2px 40px;
+    background: transparent;
+    color: white;
+    background-color: #fe671a;
+    border: 2px solid white;
+    font-weight: 600px;
+}
+button:hover{
+    background-color: darkorange;
+    transform: scale(1.05);
+
+}
