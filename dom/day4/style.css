@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    height: 50px;
+    width: 200px;
+    padding: 10px 20px;
+}
